@@ -1,0 +1,9 @@
+lastUpgrade=01101
+proj.pluginVersion=0.11.01
+proj.AppId=816527082590
+and.BundleId=com.IceCreamInc.KeepThem
+proj.classDir=Assets
+proj.ConstantsClassName=GPS
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--Google+Play+game+services+IDs.+Save+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--app_id--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e816527082590%3c%2fstring%3e%0d%0a++%3c%21--package_name--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.IceCreamInc.KeepThem%3c%2fstring%3e%0d%0a++%3c%21--leaderboard+%d0%9b%d1%83%d1%87%d1%88%d0%b8%d0%b5%21--%3e%0d%0a++%3cstring+name%3d%22leaderboard%22+translatable%3d%22false%22%3eCgkI3oi65uEXEAIQAQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=816527082590-hv0323v6lv5f9qnjht9qc9mi0bj7fo0v.apps.googleusercontent.com
+android.SetupDone=true
